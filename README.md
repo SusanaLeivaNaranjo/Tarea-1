@@ -24,20 +24,20 @@ Este cuaderno presenta un proyecto final sobre Ciencia de Datos.
 
 
 ## Ejemplos de Expresiones Aritméticas
-1. Suma: 2 + 2
-2. Resta: 5 - 3
-3. Multiplicación: 3 * 4
-4. División: 10 / 2
+1. Suma: 4 + 2
+2. Resta: 10 - 3
+3. Multiplicación: 10 * 4
+4. División: 8 / 2
 
 5. # Multiplicar y sumar números
-a = 5
-b = 3
+a = 6
+b = 7
 multiplicacion = a * b
 suma = a + b
 multiplicacion, suma
 
 # Convertir minutos en horas
-minutos = 120
+minutos = 240
 horas = minutos / 60
 horas
 
@@ -47,5 +47,5 @@ objetivos = ["Aprender sobre ciencia de datos", "Practicar con Jupyter", "Usar G
 objetivos
 
 ## Autor
-Nombre del Autor: [Tu Nombre]
+Nombre del Autor: Susana Leiva Naranjo
 
