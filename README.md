@@ -1,4 +1,3 @@
-# Proyecto Final 
 {
  "cells": [
   {
